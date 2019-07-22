@@ -3,12 +3,12 @@
 ### Use the payload below to do the tasks:
 
 #### 1) Create the following:
-###### - Add New Contact (Priority:★★★★★)
+##### - Add New Contact (Priority:★★★★★)
 ###### - Entry form that can add new contacts and relate (if applicable) to other previous entities and vice versa (where the latter will now also relate to the newly entered contact)
 ###### Sample new Contact: { id: 8, displayName: "Dylan Reiner", title: "Baby", company: null, location: "New York City", pets: [], relationships: [{ id: 2, type: "Dad" }, { id: 6, type: "Mom" }]}
 
-// // - Single Profile View (Priority:★★★★☆)
-// // // Display each key value on a page and link to other
+##### - Single Profile View (Priority:★★★★☆)
+###### Display each key value on a page and link to other
 // // // related entities.
 
 // // - Search Page (Priority:★★★☆☆)
