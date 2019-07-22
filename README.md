@@ -1,10 +1,10 @@
 # Grapevine_Features
 
-## // Use the payload below to do the tasks:
+### Use the payload below to do the tasks:
 
-// 1) Create the following:
+#### 1) Create the following:
+###### - Add New Contact (Priority:★★★★★)
 
-// // - Add New Contact (Priority:★★★★★)
 // // // Entry form that can add new contacts and relate
 // // // (if applicable) to other previous entities and vice versa
 // // // (where the latter will now also relate to the newly entered contact)
