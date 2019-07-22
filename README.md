@@ -8,13 +8,11 @@
 ###### Sample new Contact: { id: 8, displayName: "Dylan Reiner", title: "Baby", company: null, location: "New York City", pets: [], relationships: [{ id: 2, type: "Dad" }, { id: 6, type: "Mom" }]}
 
 ##### - Single Profile View (Priority:★★★★☆)
-###### Display each key value on a page and link to other
-// // // related entities.
+###### Display each key value on a page and link to other related entities.
 
-// // - Search Page (Priority:★★★☆☆)
-// // // Search and display related entities based on partial/fuzzy
-// // // search by any key/relational value
-// // // (Sample Searchs(Refer to contacts payload below):
+##### - Search Page (Priority:★★★☆☆)
+###### Search and display related entities based on partial/fuzzy search by any key/relational value
+(Sample Searchs(Refer to contacts payload below):
 // // // // Ken -> {id:1,...}
 // // // // Girlfriend -> [{id:5,...}, {id:3,...}])
 // // // Do not preload all contacts on page, only load
