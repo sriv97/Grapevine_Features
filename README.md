@@ -12,11 +12,10 @@
 
 ##### - Search Page (Priority:★★★☆☆)
 ###### Search and display related entities based on partial/fuzzy search by any key/relational value
-(Sample Searchs(Refer to contacts payload below):
-// // // // Ken -> {id:1,...}
-// // // // Girlfriend -> [{id:5,...}, {id:3,...}])
-// // // Do not preload all contacts on page, only load
-// // // exact relational entity
+##### (Sample Searchs(Refer to contacts payload below):
+##### Ken -> {id:1,...}
+##### Girlfriend -> [{id:5,...}, {id:3,...}])
+##### Do not preload all contacts on page, only load exact relational entity
 
 ```
 const contacts = [{
