@@ -18,6 +18,7 @@
 // // // Do not preload all contacts on page, only load
 // // // exact relational entity
 
+```
 const contacts = [{
   id: 1,
   displayName: "Kenneth Lai",
@@ -91,3 +92,4 @@ const contacts = [{
   pets: [],
   relationships: [{ id: 4, type: "Husband" }]
 }]
+```
