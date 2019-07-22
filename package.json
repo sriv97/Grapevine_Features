@@ -1,0 +1,19 @@
+{
+  "name": "grapevine",
+  "version": "1.0.0",
+  "description": "coding challenge for grapevine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriv97/Grapevine_Features.git"
+  },
+  "author": "Sri Velagapudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sriv97/Grapevine_Features/issues"
+  },
+  "homepage": "https://github.com/sriv97/Grapevine_Features#readme"
+}
